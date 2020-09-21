@@ -1,6 +1,6 @@
 # Movie-Recommender
 
-Movie Recommder, as the name suggests is a Web Application, built using Flask which allows the user to find similar movies based on the ine the user entered. The system takes ito cosideration various factors and taps into the large number of movie ratings and genre with respect to the movie name entered by the user.
+Movie Recommender, as the name suggests is a Web Application, built using Flask which allows the user to find similar movies based on the name of the movie the user entered. The system takes into cosideration various factors and taps into the large number of movie ratings and various genres with respect to the movie name entered by the user.
 
 Flask
 -----
@@ -27,4 +27,10 @@ Important Resources / Links
 * Jinja: https://www.palletsprojects.com/p/jinja/
 * pip: https://pip.pypa.io/en/stable/quickstart/
 
-# Steps to
+# Installing
+
+1. Git clone the entire folder : https://github.com/Selium98/Movie-Recommender.git
+2. Once done, run the requirements.txt file from CLI or Powershell : 
+.. code-block:: text
+
+    pip install -r requirements.txt
