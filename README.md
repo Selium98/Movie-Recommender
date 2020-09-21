@@ -29,12 +29,12 @@ Important Resources / Links
 
 # Installing
 
-1. Git clone the entire folder : https://github.com/Selium98/Movie-Recommender.git
-2. Once done, run the requirements.txt file from CLI or Powershell : 
+1. Download the entire folder in .zip format or git clone the entire folder : https://github.com/Selium98/Movie-Recommender.git
+2. Once done extracting the contents, run the requirements.txt file from CLI or Powershell : 
 ```
 pip install -r requirements.txt
 ```
-3. The above command will install all the dependancies required, along with Flask, Jinja, Numpy, Pandas and all othere required parameters to get the project going.
+3. The above command will install all the dependancies required, along with Flask, Jinja, Numpy, Pandas and all other required parameters to get the project going.
 4. Once all the requirements are installed, open Powershell in the folder where all the files are present or browse into the folder via CLI.
 5. Run the command : 
 ```
