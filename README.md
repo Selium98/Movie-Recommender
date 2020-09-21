@@ -21,7 +21,7 @@ Important Resources / Links
 * Issue tracker: https://github.com/pallets/flask/issues
 * Test status: https://dev.azure.com/pallets/flask/_build
 * Official chat: https://discord.gg/pallets
-
+--------------------------------------------------------------------------------------
 * WSGI: https://wsgi.readthedocs.io
 * Werkzeug: https://www.palletsprojects.com/p/werkzeug/
 * Jinja: https://www.palletsprojects.com/p/jinja/
