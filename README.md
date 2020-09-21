@@ -33,4 +33,7 @@ Important Resources / Links
 2. Once done, run the requirements.txt file from CLI or Powershell : 
 .. code-block:: text
 
+    pip install -U Flask
+.. code-block:: text
+
     pip install -r requirements.txt
