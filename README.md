@@ -31,9 +31,8 @@ Important Resources / Links
 
 1. Git clone the entire folder : https://github.com/Selium98/Movie-Recommender.git
 2. Once done, run the requirements.txt file from CLI or Powershell : 
-.. code-block:: text
+'''
 
-    pip install -U Flask
-.. code-block:: text
+pip install -r requirements.txt
 
-    pip install -r requirements.txt
+'''
