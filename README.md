@@ -11,12 +11,6 @@ a simple wrapper around `Werkzeug`_ and `Jinja`_ and has become one of the most 
 Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many 
 extensions provided by the community that make adding new functionality easy.
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-
 Important Resources / Links
 -----
 
@@ -40,3 +34,11 @@ Important Resources / Links
 ```
 pip install -r requirements.txt
 ```
+3. The above command will install all the dependancies required, along with Flask, Jinja, Numpy, Pandas and all othere required parameters to get the project going.
+4. Once all the requirements are installed, open Powershell in the folder where all the files are present or browse into the folder via CLI.
+5. Run the command : 
+```
+python3 application.py
+```
+6. This will start the services. 
+7. Enter http://127.0.0.1:5000/ in the browser and you should be able to see the project.
