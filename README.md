@@ -22,12 +22,9 @@ Important Resources / Links
 * Test status: https://dev.azure.com/pallets/flask/_build
 * Official chat: https://discord.gg/pallets
 
-.. _WSGI: https://wsgi.readthedocs.io
-
-.. _Werkzeug: https://www.palletsprojects.com/p/werkzeug/
-
-.. _Jinja: https://www.palletsprojects.com/p/jinja/
-
-.. _pip: https://pip.pypa.io/en/stable/quickstart/
+*_WSGI: https://wsgi.readthedocs.io
+*_Werkzeug: https://www.palletsprojects.com/p/werkzeug/
+*_Jinja: https://www.palletsprojects.com/p/jinja/
+*_pip: https://pip.pypa.io/en/stable/quickstart/
 
 # Steps to
